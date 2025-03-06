@@ -19,9 +19,6 @@ All bands in the competition dataset are resized to the resolution of ~10m per p
 
 **Download links:** [training](https://cloud.iarai.ac.at/index.php/s/KrwKngeXN7KjkFm) and [validation](https://cloud.iarai.ac.at/index.php/s/N6TacGsfr5nRNWr).   
 
-
-![Logo](/image/Data_figure.png?raw=true "landslide_detection")
-
 The _Landslide4Sense_ dataset is structured as follows:
 ```
 ├── TrainData/
